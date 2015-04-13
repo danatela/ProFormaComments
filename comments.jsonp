@@ -1,7 +1,5 @@
 callback(
 [
-
-
 { "name": "[Q]Really a bug", "description": "This question should instead be filed as a bug report, and [as such](http://meta.askubuntu.com/questions/1317/what-to-do-with-questions-that-describe-known-bugs/) is off-topic, thanks! [Instructions on filing a bug report are here](http://askubuntu.com/questions/5121/how-do-i-report-a-bug)."},
 
 { "name": "[Q]Hardware", "description": "We need more hardware information to help you, can you look at [this question](http://askubuntu.com/questions/14008/i-have-a-hardware-detection-problem-what-logs-do-i-need-to-look-into) and then edit your question adding the information."},
@@ -43,6 +41,16 @@ callback(
 { "name": "OP should accept an answer", "description": "@[OP]: If [type here] answer was helpful to you, then please consider marking it as the [accepted answer](http://$SITEURL$/help/accepted-answer) so others may more easily find it in the future. This is also a polite way to thank the person answering your question for helping you out."},
 
 { "name": "[A]Duplicate answers.", "description": "Please do not post duplicate answers on different questions. It just creates more work for the moderators. If the questions are so similar that the same answer works on each, then the later of the two is likely a duplicate and should be flagged as such."},
+
+{ "name": "[Q] More than one question asked", "description": "It is preferred if you can post separate questions instead of combining your questions into one. That way, it helps the people answering your question and also others hunting for at least one of your questions. Thanks!"},
+
+{ "name": "[A] Requests to OP for further information", "description": "This is really a comment, not an answer. With a bit more rep, <a href=\"//$SITEURL$/privileges/comment\">you will be able to post comments</a>. For the moment I've added the comment for you, and I'm flagging this post for deletion."},
+
+{ "name": "[A] Another user adding a 'Me too!'", "description": "If you have a NEW question, please ask it by clicking the <a href=\"//$SITEURL$/questions/ask\">Ask Question</a> button. If you have sufficient reputation, <a href=\"//$SITEURL$/privileges/vote-up\">you may upvote</a> the question. Alternatively, \"star\" it as a favorite and you will be notified of any new answers."},
+
+{ "name": "[C] Too localized", "description": "This question appears to be off-topic because it is too localized."},
+
+{ "name": "[EQ] Improper tagging", "description": "The tags you were using are not appropritate for this question. Please review <a href=\"//$SITEURL$/help/tagging\">What are tags, and how should I use them?</a>"},
 
 ]
 )
